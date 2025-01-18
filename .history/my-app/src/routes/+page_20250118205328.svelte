@@ -104,7 +104,7 @@
         </div>
       </div> 
 
-    
+      <!-- component 2 -->
        <div class="flex flex-col">
         <!-- connect to continue -->
         <div  class="max-w-md flex justify-center items-center bg-gray-800 hover:bg-gray-700 transform-ease-out mx-2 text-white rounded-lg  shadow-lg h-[220px] mb-3">
